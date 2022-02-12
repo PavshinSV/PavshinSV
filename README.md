@@ -1,4 +1,4 @@
-<h1 align="center">- 👋 Hi, I’m @Pavshin Sergei</h1>
+<h1 align="center" style="background-color:dark-grey">- 👋 Hi, I’m @Pavshin Sergei</h1>
 <div>- 👀 I’m interested in ...</div>
 <div>- 🌱 I’m currently learning ...</div>
 <div>- 💞️ I’m looking to collaborate on ...</div>
